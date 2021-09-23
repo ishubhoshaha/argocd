@@ -20,7 +20,7 @@ data:
     player.maximum-lives=5    
   user-interface.properties: |
     color.good=pink
-    color.bad=red
+    color.bad=yellow
     allow.textmode=true    
 ---
 apiVersion: apps/v1
