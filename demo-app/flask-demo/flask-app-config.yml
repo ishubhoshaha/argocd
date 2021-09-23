@@ -33,7 +33,7 @@ spec:
   selector:
     matchLabels:
       app: python-example
-  replicas: 2
+  replicas: 3
   strategy:
     rollingUpdate:
       maxSurge: 1
